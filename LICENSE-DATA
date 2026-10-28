@@ -1,0 +1,11 @@
+Derived data files in results/, tables/ and figures/ are released under
+Creative Commons Attribution 4.0 International (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+
+Upstream datasets remain under their own terms:
+  Allen Human Brain Atlas / BrainSpan / Allen cell types  - Allen Institute Terms of Use
+  ENIGMA Toolbox summary statistics                        - see MICA-MNI/ENIGMA
+  SFARI Gene                                               - SFARI terms
+  Open Targets Platform                                    - CC0 1.0
+  gnomAD                                                   - ODbL / see gnomad.broadinstitute.org
+No raw upstream data are redistributed here; scripts download them from source.

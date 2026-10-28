@@ -1,0 +1,21 @@
+{
+  "title": "Microglia execute but do not specify: target-encoded autism risk and the developmental timing of complement-dependent synaptic pruning in human cortex",
+  "upload_type": "software",
+  "license": "MIT",
+  "description": "Analysis code, derived results, figures and tables for a study partitioning the synaptic pruning axis into opsonin, checkpoint, microglial effector and synaptic substrate layers, and testing the causal attribution and regional specificity of microglial pruning in idiopathic autism using openly available human data.",
+  "keywords": [
+    "autism",
+    "synaptic pruning",
+    "complement",
+    "microglia",
+    "imaging transcriptomics",
+    "cortical hierarchy",
+    "neurodevelopment"
+  ],
+  "creators": [
+    {
+      "name": "[AUTHOR]",
+      "affiliation": "[AFFILIATION]"
+    }
+  ]
+}
